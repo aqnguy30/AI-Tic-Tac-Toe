@@ -1,4 +1,4 @@
-# AI-Tic_Tac-Toe
+# AI-Tic-Tac-Toe
 
 ## Project Description
 
