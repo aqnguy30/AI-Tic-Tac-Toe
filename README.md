@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Develop an intelligent agent in Python able to play Tic-Tac-Toe with a human
+Develop an AI intelligent agent in Python able to play Tic-Tac-Toe with a human
 
 ## Rules
 
