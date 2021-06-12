@@ -11,5 +11,11 @@ Develop an AI intelligent agent in Python able to play Tic-Tac-Toe with a human
 3.	When it is Human’s turn, ask user to enter a number between 1-9. 
 4.	The console will display the final result.
 
-## Author
-Tony Nguyen - aqnguy30 - quocanh191997@gmail.com
+## Technologies Used
+- Python - version 3.9
+
+## Project Status
+Project is: _in progress_ for improvement.
+
+## Contact
+Created by Anh Nguyen - [aqnguy30](https://github.com/aqnguy30) - quocanh191997@gmail.com - feel free to contact me! 
