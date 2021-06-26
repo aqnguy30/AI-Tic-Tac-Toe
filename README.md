@@ -15,7 +15,7 @@ Develop an AI intelligent agent in Python able to play Tic-Tac-Toe with a human
 - Python - version 3.9
 
 ## Project Status
-Project is: _in progress_ for improvement.
+Project is: _done_ and _opened_ for improvement.
 
 ## Contact
 Created by Anh Nguyen - [aqnguy30](https://github.com/aqnguy30) - quocanh191997@gmail.com - feel free to contact me! 
